@@ -1,3 +1,3 @@
 # html
-This is the fist website that i created after learning html and css hope you like it
+This is the first website that I created after learning html and css hope you like it
 
